@@ -1,0 +1,44 @@
+>>>>>>>>>>>>>>>>>>> INFORMAÇÕES DO SERVIDOR <<<<<<<<<<<<<<<<<<<<<<<<<
+
+Tipo: Global
+IP: sv.kaldrox.com ou 15.204.196.161
+Versão: 8.60
+Porta: 7171
+URL: https://www.kaldrox.com/
+
+>>>>>>>>>>>>>>>>>>> INFORMAÇÕES DO PACOTE <<<<<<<<<<<<<<<<<<<<<<<<<
+
+Menu configurável e explicado;
+Multi-vocações;
+​Anti-drop com comandos de bless e aol;
+Proteções contra o Red Skull (Player/Floor/Frag/Skull);
+Magias e runas automáticas;
+Limite de mortes;
+Após morrer espera no treiner até dar o tempo para caçar de novo;
+Auto reconectar-se após o SS ou sua internet e/ou ot cair;
+Opção de caçar sem jogadores na tela;
+Repot 100% automático e preciso para todas as vocações;
+Venda de loot completa;
+Regenerar stamina no treiner;
+Opção de circuitos dentro de apenas um script;
+Opção de ligar cast automático com ou sem senha;
+Transformar dinheiro automático (gold em platinum/platinum em crystal);
+Anti-bug de parcel, caixas, flor, travado no chão e outros.
+
+>>>>>>>>>>>>>>>>>>> RECOMENDAÇÕES <<<<<<<<<<<<<<<<<<<<<<<<<
+
+É necessário configurar seu próprio healing e rings, os cavebots não contam com essas funções pois são de gosto próprio.
+Na primeira action do script você consegue ver qual a cidade que precisa ser morador.
+Não ative reconnect, magias de ataque (exori frigo, exori gran, exevo gran mas frigo e etc.), nem nada do tipo;
+Desmarque a opção "Use old rune aiming" nos extras e clique em save para atualizar;
+Preste bem atenção nas informações que você altera nas opções customizáveis do menu; 
+Não modifique nada na parte das hotkeys abaixo do customizável;
+Para que tudo ocorra perfeitamente, mantenha o seu mapa aberto em 100% e use cliente com imagens originais;
+Colabore conosco, caso encontre algum bug ou tenha qualquer problema, entre em contato.
+
+
+
+NÃO FIQUE PRESO A CAVEBOT GRATUITO, ADQUIRA JÁ SEU CAVEBOT PRIVADO!
+
+https://jobscripts.com.br
++55 82 99946-4655
